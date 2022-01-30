@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Prepod>
+    <Name>Киш О.И</Name>
+    <Predmet>ОАиП</Predmet>
+    <Group>181075,181076,181077</Group>
+  </Prepod>
+  <Prepod>
+    <Name>Шепетюк В.В</Name>
+    <Predmet>Философия</Predmet>
+    <Group>181075,181076,181077</Group>
+  </Prepod>
+  <Prepod>
+    <Name>Яковлев А.В</Name>
+    <Predmet>ОПИ</Predmet>
+    <Group>181075,181076,181077</Group>
+  </Prepod>
+  <Prepod />
+  <Prepod />
+</NewDataSet>
