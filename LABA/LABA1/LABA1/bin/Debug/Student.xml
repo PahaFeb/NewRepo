@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Student>
+    <Name>Барон Вадим</Name>
+    <Bilet>1234</Bilet>
+    <Group>181077</Group>
+  </Student>
+  <Student>
+    <Name>Павлик</Name>
+    <Bilet>12346</Bilet>
+    <Group>181077</Group>
+  </Student>
+  <Student />
+</NewDataSet>
